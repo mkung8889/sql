@@ -1,1 +1,3 @@
-# sql_hw
+# sql
+
+Various sample mySQL queries with sample data
